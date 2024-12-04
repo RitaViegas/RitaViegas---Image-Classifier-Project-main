@@ -1,3 +1,7 @@
 __pycache__
 .env
 .learn
+# Ignore the models folder where models are saved 
+models/ 
+# Ignore the data folder which contains the raw and processed data 
+data/
